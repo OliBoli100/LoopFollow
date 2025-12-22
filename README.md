@@ -1,4 +1,4 @@
- > **Message from the Loop and Learn Team:**
+> **Message from the Loop and Learn Team:**
 > * We have taken responsibility for updates to the LoopFollow app - many thanks to Jon Fawcett, the originator of this app
 > * Additional LoopFollow documentation is at [Loop and Learn: LoopFollow](https://www.loopandlearn.org/loop-follow/)
 > * If you are having problems with the app:
